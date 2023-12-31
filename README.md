@@ -1,6 +1,8 @@
 ## Introduction
 It was November 2019, it's was my first node js back-end developer interview. i just share my interview experience here. hopefully, any junior developers get help from this code. this was my second round interview. problem statement has very long so i just mension main point of statement.
 
+### Duration Time 1 hour 15 min 
+Sorry i forgoted to sayed interview duration first time. I gave this interview on an online coding platform.
 
 ## Problem Statement One
 You have two api endpoint like login and order api. 
@@ -75,7 +77,7 @@ Step:
 
 ### Some restriction of test case:
 1. Don't use  fetch, axios and any thrid party api
-2. Should be excution time 100 ms of all process
+2. Should be excution time 100 ms of all process 
 
 *Note*: I don't remember exactly how many records were in the database.
 
