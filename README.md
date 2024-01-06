@@ -171,3 +171,7 @@ console.log(chart);
 }
 
 ```
+Follow me for more content.
+
+LinkedIn: https://www.linkedin.com/in/yeasin-eng/
+
